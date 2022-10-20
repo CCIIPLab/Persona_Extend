@@ -1,3 +1,3 @@
-# Persona_Extend
+# Improving Personality Consistency in Conversation by Persona Extending
 
 Coming soon...
