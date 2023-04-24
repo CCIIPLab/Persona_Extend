@@ -1,4 +1,4 @@
-name: pgchat2
+name: pgchat
 channels:
   - pytorch
   - defaults
