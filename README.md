@@ -42,25 +42,27 @@ python main.py
 
 ## Citation
 
-    @inproceedings{10.1145/3511808.3557359,
-        author = {Liu, Yifan and Wei, Wei and Liu, Jiayi and Mao, Xianling 
-and Fang, Rui and Chen, Dangyang},
-        title = {Improving Personality Consistency in Conversation by 
-Persona Extending},
-        year = {2022},
-        isbn = {9781450392365},
-        publisher = {Association for Computing Machinery},
-        address = {New York, NY, USA},
-        url = {https://doi.org/10.1145/3511808.3557359},
-        doi = {10.1145/3511808.3557359},
-        booktitle = {Proceedings of the 31st ACM International Conference 
-on Information &amp; Knowledge Management},
-        pages = {1350–1359},
-        numpages = {10},
-        keywords = {dialogue generation, personality consistency, persona 
+```
+@inproceedings{10.1145/3511808.3557359,
+    author = {Liu, Yifan and Wei, Wei and Liu, Jiayi and Mao, Xianling and 
+Fang, Rui and Chen, Dangyang},
+    title = {Improving Personality Consistency in Conversation by Persona 
+Extending},
+    year = {2022},
+    isbn = {9781450392365},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3511808.3557359},
+    doi = {10.1145/3511808.3557359},
+    booktitle = {Proceedings of the 31st ACM International Conference on 
+Information &amp; Knowledge Management},
+    pages = {1350–1359},
+    numpages = {10},
+    keywords = {dialogue generation, personality consistency, persona 
 expanding},
-        location = {Atlanta, GA, USA},
-        series = {CIKM '22}
-    }
+    location = {Atlanta, GA, USA},
+    series = {CIKM '22}
+}
+```
 
 [Arxiv Link](https://arxiv.org/abs/2208.10816)
